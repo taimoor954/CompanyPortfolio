@@ -1,0 +1,74 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 18 Oct 2020 18:45:17 at http://paul-themes.com/html/skape/homepage-07.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://paul-themes.com/html/skape/homepage-07.html -O1 "C:\My Web Sites\portfolio design" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:40:08	Warning: 	File not parsed, looks like binary: paul-themes.com/html/skape/assets/fonts/Swansea/swansea-webfont.woff2
+19:40:08	Warning: 	File not parsed, looks like binary: paul-themes.com/html/skape/assets/fonts/Swansea/swansea_bold-webfont.woff2
+19:40:08	Warning: 	File not parsed, looks like binary: paul-themes.com/html/skape/assets/fonts/Socicons/Socicon.woff2?484r1f
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.eot?5510888 (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.woff?5510888 (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.ttf?5510888 (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/fonts/revicons/revicons.svg?5510888 (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Warning: 	File not parsed, looks like binary: paul-themes.com/html/skape/assets/revo/css/openhand.cur
+19:40:08	Warning: 	File not parsed, looks like binary: paul-themes.com/html/skape/assets/revo/css/closedhand.cur
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/assets/gridtile.png (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/assets/gridtile_white.png (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/assets/gridtile_3x3.png (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/assets/revo/assets/gridtile_3x3_white.png (from paul-themes.com/html/skape/assets/revo/css/settings.css)
+19:40:08	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/contact-us.html (from paul-themes.com/html/skape/homepage-01.html)
+19:40:27	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/example.com (from paul-themes.com/html/skape/single-work-02.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/asymmetric/work-asymmetric-5.png (from paul-themes.com/html/skape/ajax/portfolio-13-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/asymmetric/work-asymmetric-6.png (from paul-themes.com/html/skape/ajax/portfolio-13-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/asymmetric/work-asymmetric-13.png (from paul-themes.com/html/skape/ajax/portfolio-14-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/asymmetric/work-asymmetric-14.png (from paul-themes.com/html/skape/ajax/portfolio-14-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/asymmetric/work-asymmetric-20.png (from paul-themes.com/html/skape/ajax/portfolio-15-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/masonry/masonry-1-col-4.png (from paul-themes.com/html/skape/ajax/portfolio-08-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/masonry/masonry-1-col-6.png (from paul-themes.com/html/skape/ajax/portfolio-08-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/masonry/masonry-4-col-5.png (from paul-themes.com/html/skape/ajax/portfolio-07-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/masonry/masonry-4-col-7.png (from paul-themes.com/html/skape/ajax/portfolio-07-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/masonry/masonry-4-col-9.png (from paul-themes.com/html/skape/ajax/portfolio-06-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/masonry/masonry-4-col-10.png (from paul-themes.com/html/skape/ajax/portfolio-06-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-1-col-4.png (from paul-themes.com/html/skape/ajax/portfolio-04-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-1-col-5.png (from paul-themes.com/html/skape/ajax/portfolio-04-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-2-col-5.png (from paul-themes.com/html/skape/ajax/portfolio-03-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-2-col-6.png (from paul-themes.com/html/skape/ajax/portfolio-03-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-4-col-7.png (from paul-themes.com/html/skape/ajax/portfolio-02-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-4-col-8.png (from paul-themes.com/html/skape/ajax/portfolio-02-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-4-col-9.png (from paul-themes.com/html/skape/ajax/portfolio-01-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/grid/grid-4-col-10.png (from paul-themes.com/html/skape/ajax/portfolio-01-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-1-col-4.png (from paul-themes.com/html/skape/ajax/portfolio-12-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-1-col-5.png (from paul-themes.com/html/skape/ajax/portfolio-12-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-4-col-5.png (from paul-themes.com/html/skape/ajax/portfolio-11-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-4-col-6.png (from paul-themes.com/html/skape/ajax/portfolio-11-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-4-col-7.png (from paul-themes.com/html/skape/ajax/portfolio-10-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-4-col-8.png (from paul-themes.com/html/skape/ajax/portfolio-10-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-4-col-9.png (from paul-themes.com/html/skape/ajax/portfolio-09-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/wide/wide-4-col-10.png (from paul-themes.com/html/skape/ajax/portfolio-09-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/tooltip/work-tooltip-07.png (from paul-themes.com/html/skape/ajax/portfolio-16-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/portfolio/tooltip/work-tooltip-08.png (from paul-themes.com/html/skape/ajax/portfolio-16-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-1-col-5.png (from paul-themes.com/html/skape/ajax/blog-07-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-2-col-5.png (from paul-themes.com/html/skape/ajax/blog-06-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-2-col-6.png (from paul-themes.com/html/skape/ajax/blog-06-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-3-col-7.png (from paul-themes.com/html/skape/ajax/blog-05-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-3-col-8.png (from paul-themes.com/html/skape/ajax/blog-05-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-3-col-9.png (from paul-themes.com/html/skape/ajax/blog-04-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-3-col-10.png (from paul-themes.com/html/skape/ajax/blog-04-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-2-col-5.png (from paul-themes.com/html/skape/ajax/blog-08-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-2-col-6.png (from paul-themes.com/html/skape/ajax/blog-08-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-3-col-7.png (from paul-themes.com/html/skape/ajax/blog-09-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-3-col-8.png (from paul-themes.com/html/skape/ajax/blog-09-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-3-col-9.png (from paul-themes.com/html/skape/ajax/blog-09-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-3-col-10.png (from paul-themes.com/html/skape/ajax/blog-10-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-3-col-11.png (from paul-themes.com/html/skape/ajax/blog-10-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/masonry/masonry-3-col-12.png (from paul-themes.com/html/skape/ajax/blog-10-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/listing/blog-listing-5.png (from paul-themes.com/html/skape/ajax/blog-02-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/default/blog-default-4.png (from paul-themes.com/html/skape/ajax/blog-01-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-3-col-5.png (from paul-themes.com/html/skape/ajax/blog-03-load-more.html)
+19:40:59	Error: 	"Not Found" (404) at link paul-themes.com/html/skape/ajax/assets/img/blog/grid/grid-3-col-6.png (from paul-themes.com/html/skape/ajax/blog-03-load-more.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 minutes 42 seconds : 536 links scanned, 477 files written (82713522 bytes overall) [79779412 bytes received at 23871 bytes/sec], 4586320 bytes transferred using HTTP compression in 183 files, ratio 27%, 2.3 requests per connection
+(58 errors, 5 warnings, 0 messages)
